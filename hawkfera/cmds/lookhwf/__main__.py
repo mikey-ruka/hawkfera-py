@@ -1,4 +1,4 @@
-import typing, sys, time
+import typing, sys
 
 def main(
     args: typing.List[str]
